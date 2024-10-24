@@ -2,7 +2,7 @@ from tkinter import *
 import random
 from tkinter import messagebox
 # words.py
-words = ['example', 'typing', 'test', 'quick', 'brown', 'fox', 'jumps', 'over', 'lazy', 'dog']
+words = ['example', 'typing', 'test', 'quick', 'brown', 'fox', 'jumps', 'over', 'lazy', 'dog', 'bonfire', 'ludicrous', 'foolish']
 Mainscreen = Tk()
 Mainscreen.geometry('800x600')
 Mainscreen.title('Typing Test By DataFlair')
